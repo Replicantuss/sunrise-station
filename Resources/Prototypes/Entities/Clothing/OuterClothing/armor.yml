@@ -174,7 +174,7 @@
         Piercing: 0.3
         Heat: 0.9
   - type: ExplosionResistance
-    damageCoefficient: 0.9
+    damageCoefficient: 0.7
   - type: StaticPrice
     price: 1500
 
