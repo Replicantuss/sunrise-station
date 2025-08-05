@@ -15,7 +15,7 @@
   description: Unwrap.
   components:
   - type: Item
-    size: Ginormous
+    size: Normal
   - type: Sprite
     sprite: _Sunrise/Objects/Storage/sheath-rapier-gift.rsi
     state: sheath-rapier-gift
